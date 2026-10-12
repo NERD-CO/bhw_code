@@ -1,0 +1,13 @@
+distinctipy==1.3.4
+huggingface_hub==1.24.0
+ipykernel==7.3.0
+ipywidgets==8.1.8
+kilosort==4.1.7
+narwhals==2.23.0
+nbformat==5.10.4
+pynwb==4.0.0
+PyQt6==6.11.0
+pyqtgraph==0.14.0
+QtPy==2.4.3
+skops==0.14.0
+spikeinterface==0.104.8

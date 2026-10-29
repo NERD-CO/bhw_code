@@ -1,3 +1,4 @@
 neuro-env/
 drk_CodeRepo/
 .DS_Store
+*.venv/
